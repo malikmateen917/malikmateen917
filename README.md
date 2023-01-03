@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikmateen917&label=Profile%20views&color=0e75b6&style=flat" alt="malikmateen917" /> </p>
 <p align="left"> <a href="https://twitter.com/malik__mateen" target="blank"><img src="https://img.shields.io/twitter/follow/malik__mateen?logo=twitter&style=for-the-badge" alt="malik__mateen" /></a> </p>
-
 - 📫 How to reach me **malikmateen989@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
